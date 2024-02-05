@@ -1,0 +1,16 @@
+{
+  "name": "sol-wallet",
+  "version": "1.0.0",
+  "description": "Advanced Solana Bootcamp - Week 1 Homework",
+  "main": "wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Barış Hırece",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "pm2": "^5.3.1",
+    "punycode": "^2.3.1"
+  }
+}
